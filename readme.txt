@@ -1,3 +1,5 @@
-Locality-sensitive perfect minimal hash map
+Locality-sensitive minimal perfect hash map
 
-Abandoned for now
+Only works with 3 bits at full speed
+
+Works with 2 mappings in 4 bytes
